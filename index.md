@@ -35,9 +35,9 @@ Hi, My name is Harkirat, I am very excited to do CSP this year.
 </video> -->
 <iframe width="640" height="360" src="https://youtu.be/6x_b11Kyrco" frameborder="0" allowfullscreen></iframe>
 
-## Picture
+## My
 
-![fix](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIGkGEOxhohZ7wOw0PZM461PzcdhUFBjHSA&usqp=CAU)
+![fix]()
 
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
