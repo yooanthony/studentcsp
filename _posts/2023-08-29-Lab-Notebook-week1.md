@@ -12,6 +12,7 @@ type: tangibles
 
 > Update Blog to contain all hacks.
 - [X] make, to test server
+- [X] install theme (minima)
 - [X] make nav bar
 - [X] add drawing, table, embedded link, embedded video to home page
 - [X] add java calculator to blogs
