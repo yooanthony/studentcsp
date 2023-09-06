@@ -6,6 +6,7 @@ title: Lab Notebook week 1
 description: weekly plan for week 1 
 type: tangibles
 courses: {csp: {week: 1}}
+type: tangibles
 ---
 
 

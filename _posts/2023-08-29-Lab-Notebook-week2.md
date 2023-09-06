@@ -11,5 +11,5 @@ courses: {csp: {week: 2}}
 
 > Update Blog to contain all hacks.
 - [X] make lab notebook for all 3 weeks
-- [X] run website on github pages
-- [X] Style the theme to work on github pages(isues without remote theme such as minima)
+- [X] run website on github pages(not locally)
+- [X] Style the theme to work on github pages(issues without remote theme such as minima)
