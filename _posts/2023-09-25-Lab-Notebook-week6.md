@@ -9,3 +9,4 @@ courses: {csp: {week: 6}}
 ---
 
 > Update Blog to contain all hacks.
+- [X] do the hacks to prepare for team test
