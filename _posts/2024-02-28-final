@@ -1,0 +1,44 @@
+---
+toc: True
+comments: True
+layout: post
+title: CPT final
+description: None
+courses: {'compsci': {'week': 17}}
+type: hacks
+---
+
+Summary of CPT Project
+----------------------
+
+
+Our group worked on a travel website with different games like trivia, a quiz to find out where you should travel to, and a memory game and guessing game with flags. There was a leaderboard with scores tracked based on users from the signups.
+
+My Feature
+----------
+
+I worked on the frontend and coded my game which was a travel guessing quiz. I tried to connect the backend with the frontend in my quiz by trying to fetch 5 cities/national parks/tropical places based on the result of the quiz, along with the language, timezone, and weather of each. However, I had trouble getting that to work so my feature was just the travel quiz.
+
+CPT Requirements
+----------------
+
+| CPT Requirements | Explanation |
+| ---------------- | ----------- |
+| Instructions for input from one of the following: the user, a device, an online data stream, a file. | My feature had input from the user as they clicked on the different answers for the 6 question quiz. |
+| Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the users purpose. | I had a list of questions.|
+| At least one procedure that contributed to the program’s intended purpose where you have defined: the name, return type, one or more parameters: |<img src="https://ibb.co/3MzW03b" alt=""> |
+| Instructions for output based on input | The code calculates how many answers for each type of location like city national park or tropical were chosen, and based on that finds which category had the most answers from the user to recommend that as a destination. |
+
+Video
+-----
+
+Collegeboard Requirements
+-------------------------
+
+| Collegeboard Requirements | My video |
+| ------------------------- | -------- |
+| Input to program | In video: sign-in, login, difficulty selection |
+| At least one aspect of the functionality of your program | score is saved and displayed after the game |
+| Output produced by program: | displays when the timer is done and saves the flags when matched |
+| My video does not have: | no audible narration |
+| My video is | less than 1 minute long, has captions. |
